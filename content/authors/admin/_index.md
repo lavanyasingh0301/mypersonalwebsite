@@ -46,7 +46,7 @@ interests:
 education:
   - area: BSc Economics and Finance
     institution: Ashoka University
-    date_start: 2024-08-0117
+    date_start: 2024-08-17
     date_end: 2028-05-28
     summary: |
       GPA: 3.6/4.0
